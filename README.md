@@ -2,7 +2,7 @@
 - 👀 I’m interested in upgrading my computer.
 - 🌱 I’m currently learning Visual Basic.
 - 💞️ I’m looking to collaborate on translating stuff.
-- ⚙️ I'm currently working on szkolny.eu edycja Lipton:tm:
+- ⚙️ I'm currently working on NieAddons
 - 📫 How to reach me ... you can't.
 
 
