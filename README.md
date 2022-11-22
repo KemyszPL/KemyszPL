@@ -1,9 +1,10 @@
+finally updated this after setting it up 2 years ago.
 - 👋 Hi, I’m @KemyszPL.
 - 👀 I’m interested in upgrading my computer.
 - 🌱 I’m currently learning Visual Basic.
 - 💞️ I’m looking to collaborate on translating stuff.
-- ⚙️ I'm currently working on NieAddons
-- 📫 How to reach me ... you can't.
+- ⚙️ I'm currently working on not procrastinating as much.
+- 📫 How to reach me ... uuh make an issue in one of my repos i guess i can't think of anything better
 
 
 <!---
